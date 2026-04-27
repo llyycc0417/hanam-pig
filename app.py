@@ -10,7 +10,7 @@ import time
 st.set_page_config(page_title="하남돼지집 조종실", layout="wide")
 
 # 1. 시트 ID 설정 (캡틴의 시트 ID로 확인!)
-SHEET_ID = '12n0p273_jWp0HqH2t9-fX-7-O7-O7-O' 
+SHEET_ID = '1w_BHaPFVSDITINM-QhTSEa9H2VXPO3m-KiFblP3z02Y' 
 
 st.title("🔥 하남돼지집 차주 스케줄 조종실")
 
